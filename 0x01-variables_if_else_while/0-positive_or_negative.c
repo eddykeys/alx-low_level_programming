@@ -4,7 +4,7 @@
 /**
  * the main entry point
  */
-int main(void)
+int main()
 {
 int n;
 srand(time(0));
