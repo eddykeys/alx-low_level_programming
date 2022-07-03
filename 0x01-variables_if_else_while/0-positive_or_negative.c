@@ -1,10 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
- * the main entry point
- */
-int main()
+/*main code function*/
+int main(void)
 {
 int n;
 srand(time(0));
